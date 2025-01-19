@@ -86,7 +86,7 @@ Ensure the following are installed on your local machine:
 
 TripTales is live on Render for easy access and testing. You can view the deployed version here:
 
-TripTales Deployed on Render
+TripTales Deployed on Render-https://triptaless-1.onrender.com/listings
 <hr>
 🖥️ How to Use
 	1.	Access the Application:
